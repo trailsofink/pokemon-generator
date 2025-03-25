@@ -33,6 +33,7 @@ group :test do
   gem "draft_matchers"
   gem "rspec"
   gem "rspec-html-matchers"
+  gem "rake"
   gem "webmock"
   gem "webdrivers"
   gem "i18n"
